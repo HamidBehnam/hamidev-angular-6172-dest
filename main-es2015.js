@@ -530,7 +530,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /var/lib/jenkins/workspace/hamidev011_dev/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /var/lib/jenkins/workspace/hamidev-angular-6172-src_dev/src/main.ts */"./src/main.ts");
 
 
 /***/ })
