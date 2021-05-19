@@ -11790,6 +11790,7 @@ var __extends = (this && this.__extends) || (function () {
             /* harmony import */ var _services_projects_service__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../services/projects.service */ "./src/app/store/projects-store/services/projects.service.ts");
             /* harmony import */ var _services_projects_facade_service__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../services/projects-facade.service */ "./src/app/store/projects-store/services/projects-facade.service.ts");
             /* harmony import */ var rxjs__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! rxjs */ "./node_modules/rxjs/_esm2015/index.js");
+            // TODO: Also check https://github.com/johnpapa/ngrx-demo
             var ProjectsEffects = /** @class */ (function () {
                 function ProjectsEffects(actions$, projectsService, projectsFacadeService) {
                     var _this = this;
@@ -12029,6 +12030,7 @@ var __extends = (this && this.__extends) || (function () {
             /* harmony import */ var _ngrx_store__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @ngrx/store */ "./node_modules/@ngrx/store/fesm2015/store.js");
             /* harmony import */ var _selectors_projects_selectors__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../selectors/projects.selectors */ "./src/app/store/projects-store/selectors/projects.selectors.ts");
             /* harmony import */ var _actions_projects_actions__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../actions/projects.actions */ "./src/app/store/projects-store/actions/projects.actions.ts");
+            // TODO: Also check https://github.com/johnpapa/ngrx-demo
             var ProjectsFacadeService = /** @class */ (function () {
                 function ProjectsFacadeService(store) {
                     this.store = store;

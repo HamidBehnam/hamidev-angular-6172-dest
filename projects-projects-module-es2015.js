@@ -11612,6 +11612,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+// TODO: Also check https://github.com/johnpapa/ngrx-demo
 let ProjectsEffects = class ProjectsEffects {
     constructor(actions$, projectsService, projectsFacadeService) {
         this.actions$ = actions$;
@@ -11879,6 +11880,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+// TODO: Also check https://github.com/johnpapa/ngrx-demo
 let ProjectsFacadeService = class ProjectsFacadeService {
     constructor(store) {
         this.store = store;
